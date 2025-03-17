@@ -31,7 +31,7 @@ npm run start:bun
 
 7. try to connect to the server using the inspector, observe the network (pending SSE connection), server and inspector logs
 
-8. in another terminal tab / session run the server using nodejs
+8. kill the bun server then  run the server using nodejs
 
 ```bash
 npm run start:node
